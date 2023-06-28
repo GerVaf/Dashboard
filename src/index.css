@@ -1,3 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* invoice List */
+.main-content {
+  margin-left: 20px;
+  position: relative;
+  overflow: hidden;
+  background: whitesmoke  	 ;   	
+}
+/* #E6E6FA   	 */
+
+.card{
+  border-radius: 0.30rem;
+  border: 1px;
+  border-style: solid;
+  border-color: #d0dfff;
+  margin-bottom: 1.25rem;
+}
+.card-body{
+  padding: 1.25rem;
+}
+  /* end Invoice List */
